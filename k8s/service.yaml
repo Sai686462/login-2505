@@ -8,4 +8,4 @@ spec:
     app: nginx
   ports:
     - port: 80
-      nordPort: 30007    
+      nodePort: 30007    
